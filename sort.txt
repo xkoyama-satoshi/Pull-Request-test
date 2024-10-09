@@ -14,4 +14,3 @@ console.log(number);
 //TEXTファイルに変更。
 //test2へコミット。
 //xkoyama.を追加
-//2

@@ -13,4 +13,4 @@ console.log(number);
 
 //TEXTファイルに変更。
 testtesttesttesttesttesttesttesttest
-test 2
+test 23456
